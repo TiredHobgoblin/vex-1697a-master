@@ -1,0 +1,6 @@
+# Directories
+backup/
+build/
+
+# Files
+.idea
